@@ -4,12 +4,12 @@
 
 ```python
 graph = {}
-graph["you"] = ["alice", "bob", "kanika"]
-graph["bob"] = ["anuj", "snigdha"]
-graph["alice"] = ["snigdha"]
-graph["kanika"] = ["thom", "jonny"]
+graph["you"] = ["alice", "bob", "claire"]
+graph["bob"] = ["anuj", "peggy"]
+graph["alice"] = ["peggy"]
+graph["claire"] = ["thom", "jonny"]
 graph["anuj"] = []
-graph["snigdha"] = []
+graph["peggy"] = []
 graph["thom"] = []
 graph["jonny"] = []
 ```
